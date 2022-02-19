@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mhyemon95
-- 👀 I’m interested in ...C & Java Programming.
-- 🌱 I’m currently learning ...Java Programming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Software Development.
+- 🌱 I’m currently learning ...C & Java Programming.
+- 💞️ I’m looking to collaborate on ...Software Developing.
+- 📫 How to reach me ...mhyemon@gmailcom.
 
 <!---
 mhyemon95/mhyemon95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
