@@ -1,7 +1,7 @@
 ##### Hi there 👋
 ### Hi there 👋, my name is mhyemon.
 #### Studying at Computer Science & Engineering.
-![Studying at Computer Science & Engineering.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Studying at Computer Science & Engineering.](https://images.app.goo.gl/PWjRnsGBEB4DADio7)
 
 Hi, I'm Meherub Hossain Yemon. I'm Studying in  CSE. I'm interested on software development. 
 
