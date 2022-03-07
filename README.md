@@ -3,7 +3,7 @@
 #### Studying at Computer Science & Engineering.
 Hi, I'm Meherub Hossain Yemon. I'm Studying in  CSE. I'm interested on software development. 
 
-Skills:  C Programming/ HTML / JavaScript
+
 
 - 🔭 I’m currently working on Studying at CSE. 
 - 🌱 I’m currently learning C Programming & JavaScript. 
