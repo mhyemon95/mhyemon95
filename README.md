@@ -5,8 +5,7 @@ Hi, I'm Meherub Hossain Yemon. I'm Studying in  CSE. I'm interested on software 
 
 
 
-- 🔭 I’m currently working on Studying at CSE. 
-- 🌱 I’m currently learning C Programming & JavaScript. 
+- 🔭 I’m currently working on Studying at CSE.  
 - 👯 I’m looking to collaborate on Software Development 
 - 💬 Ask me about Anything. 
 - 📫 How to reach me: mhyemon@gmail.com 
