@@ -22,11 +22,18 @@ I’m a passionate **Software Engineer** with hands-on experience in building sc
 
 ---
 ## 🌐 Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='28'>](https://github.com/mhyemon95)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='28'>](https://www.facebook.com/mhyemon95)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='28'>](https://www.instagram.com/mh_yemon/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='28'>](https://www.youtube.com/channel/MHYemon)  
-
+<a href="https://github.com/mhyemon95" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="28" style="filter: invert(100%); margin-right: 10px;">
+</a>
+<a href="https://www.facebook.com/mhyemon95" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="28" style="filter: invert(100%); margin-right: 10px;">
+</a>
+<a href="https://www.instagram.com/mh_yemon/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="28" style="filter: invert(100%); margin-right: 10px;">
+</a>
+<a href="https://www.youtube.com/channel/MHYemon" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="28" style="filter: invert(100%);">
+</a>
 
 ---
 
