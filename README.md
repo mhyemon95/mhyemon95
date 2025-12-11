@@ -21,12 +21,12 @@ I’m a passionate **Software Engineer** with hands-on experience in building sc
 **Other Skills:** Responsive Design, UI/UX Design, Problem Solving, API Integration  
 
 ---
-
 ## 🌐 Connect with Me
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/mhyemon95)  
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/mhyemon95)  
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/mh_yemon/)  
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg)](https://www.youtube.com/channel/MHYemon)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='28'>](https://github.com/mhyemon95)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='28'>](https://www.facebook.com/mhyemon95)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='28'>](https://www.instagram.com/mh_yemon/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='28'>](https://www.youtube.com/channel/MHYemon)  
+
 
 ---
 
